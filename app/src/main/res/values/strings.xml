@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SheetBehavior</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_content_title">Main Content</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_center_fragment">Hello Center fragment</string>
+    <string name="hello_north_fragment">Hello North fragment</string>
+    <string name="hello_south_fragment">Hello South fragment</string>
+    <string name="hello_east_fragment">Hello East fragment</string>
+    <string name="hello_west_fragment">Hello West fragment</string>
+</resources>
